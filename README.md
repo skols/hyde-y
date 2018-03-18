@@ -1,10 +1,7 @@
-Hyde-Y
+Hyde-YS
 ======
 
-<small>Forked from [Hyde-X](https://github.com/zyro/hyde-x)</small>
-
-You can find a live site using this theme [here](http://enten.github.io/hugo-boilerplate/)
-and the corresponding source code [here](https://github.com/enten/hugo-boilerplate).
+<small>Forked from enten's [Hyde-Y](https://github.com/enten/hyde-y)</small>
 
 ## Screenshot
 
